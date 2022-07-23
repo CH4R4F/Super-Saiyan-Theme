@@ -1,0 +1,33 @@
+{
+  "name": "Super Saiyan theme",
+  "displayName": "Super Saiyan",
+  "description": "this is a simple, cool, and powerfull vscode dark theme",
+  "version": "0.0.1",
+  "publisher": "CMarghin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CH4R4F/Super-Saiyan-Theme"
+  },
+  "keywords": [
+    "theme",
+    "yellow",
+    "dark",
+    "super saiyan",
+    "dark theme"
+  ],
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Super Saiyan Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Super Saiyan Theme-color-theme.json"
+      }
+    ]
+  }
+}
