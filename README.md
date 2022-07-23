@@ -1,10 +1,12 @@
 # Super Saiyan Theme - Dark
 
-<div>
+<div align="center">
   <a href="https://github.com/CH4R4F/Super-Saiyan-Theme">
     <img src="https://img.shields.io/github/stars/CH4R4F/Super-Saiyan-Theme?style=social" alt="GitHub Stars" />
   </a>
-
+  &nbsp;
+  &nbsp;
+  &nbsp;
   <a href="https://marketplace.visualstudio.com/items?itemName=CMarghin.super-saiyan-theme">
     <img src="https://vsmarketplacebadge.apphb.com/installs/CMarghin.super-saiyan-theme.svg" alt="Downloads" />
   </a>
