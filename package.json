@@ -2,7 +2,8 @@
   "name": "super-saiyan-theme",
   "displayName": "Super Saiyan",
   "description": "this is a simple, cool, and powerfull vscode dark theme",
-  "version": "0.0.1",
+  "version": "0.0.3",
+  "icon": "images/logo.png",
   "publisher": "CMarghin",
   "repository": {
     "type": "git",
